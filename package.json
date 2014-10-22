@@ -8,5 +8,8 @@
   },
   "repository": "",
   "author": "Sebastian Kannegiesser",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "hapi": "^7.0.0"
+  }
 }
